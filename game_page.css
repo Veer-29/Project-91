@@ -1,0 +1,33 @@
+body
+{
+	background-image: url(https://static-cse.canva.com/image/124987/Minimal-Patterns-Sound-Waves-Wallpaper.png);
+	background-position:center;
+    background-size:cover;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+ #b2{
+    font-size: large;
+    color: rgb(52, 41, 212);
+    background-color: rgb(235, 183, 218);
+    border-radius: 50px;
+    box-shadow: rgb(245, 13, 63);
+    border-width: 10px;
+    font-weight: bold;
+    border-color: rgb(236, 29, 219);
+	width: 100px;
+}
+
+
+.img-2{
+	text-align: left;
+	width: 350px;
+}
